@@ -1,5 +1,5 @@
 ---
-title: 欢迎
+title: 你好
 ---
 
 欢迎来到 NObodyGX 的小书屋
